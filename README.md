@@ -2,6 +2,7 @@
 
 PDM Microphone Input library for Arduino Zero / Adafruit Feather M0 (SAMD21 processor). PDM Microphone Input library for the Arduino Zero / Adafruit Feather M0 (SAMD21 processor). Original author: Adafruit. This is Dave Robinson's working copy from the Arduino `libraries` tree. Version recorded in `library.properties`: 1.2.0. Upstream: <https://github.com/adafruit/Adafruit_ZeroPDM>.
 
+**Source last updated:** 2020-06-30  
 **Language:** C++ / Arduino  
 **Target:** Arduino (samd)  
 **Output:** Arduino library
