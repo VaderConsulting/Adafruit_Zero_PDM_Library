@@ -20,6 +20,10 @@ PDM Microphone Input library for Arduino Zero / Adafruit Feather M0 (SAMD21 proc
 
 Install this folder as an Arduino library (Sketch → Include Library → Add .ZIP Library, or copy into `libraries/Adafruit_Zero_PDM_Library`). Open any `examples/*.ino` from the Arduino IDE.
 
+## Requirements
+
+- Arduino IDE
+
 ## Attribution and provenance
 
 - **Original author / maintainer:** Adafruit
